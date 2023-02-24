@@ -1,2 +1,2 @@
 # Kimura
-⚠️ Este proyecto está en fase de desarrollo. No se recomienda su uso en producción. ⚠️
+⚠️ Este proyecto está en fase de desarrollo. ⚠️
